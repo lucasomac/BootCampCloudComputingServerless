@@ -87,7 +87,7 @@ Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Luc
 <div align="center">
 
   <a alt="Lucas de Oliveira Macedo Linkedin" href="https://www.linkedin.com/in/lucasomac/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas de Oliveira Macedo-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-lucasomac-blue?logo=linkedin"/>
   </a>
   <a alt="Lucas de Oliveira Macedo GitHub" href="https://github.com/lucasomac">
   <img src="https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github"/>
