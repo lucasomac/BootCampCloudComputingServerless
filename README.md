@@ -65,9 +65,9 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Bem-vindo à DIO](/certificados/24CA67BD.pdf)
 - [Criando um repositório para seus projetos inovadores](/certificados/7769FC21.pdf)
 - [Fundamentos da Computação em Nuvem](/certificadso/F1217DA0.pdf)
-- [Fundamentos do Azure](#)
-- [Introdução aos Conceitos de Serverless e Azure Functions](#)
-- [Desenvolvimento de software com Azure Static Web Apps e GitHub Actions](#)
+- [Fundamentos do Azure](/certificados/C5119A8B.pdf)
+- [Introdução aos Conceitos de Serverless e Azure Functions](/certificados/E2D312AD.pdf)
+- [Desenvolvimento de software com Azure Static Web Apps e GitHub Actions](/certificados/1FE73F27.pdf)
 
 <h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
