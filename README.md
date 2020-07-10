@@ -60,7 +60,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
 
-# 🏁 Cursos
+# 🏁 Módulos e certificados
 
 - [Bem-vindo à DIO](/certificados/24CA67BD.pdf)
 - [Criando um repositório para seus projetos inovadores](/certificados/7769FC21.pdf)
@@ -70,6 +70,8 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desenvolvimento de software com Azure Static Web Apps e GitHub Actions](/certificados/1FE73F27.pdf)
 
 <h4 align="center" >
+  [Certificado de Conclusão](/certificados/2E9D45E2.pdf)
+</h4><h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
 </h4>
 
