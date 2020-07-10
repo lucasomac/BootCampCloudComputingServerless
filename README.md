@@ -53,11 +53,14 @@ Nesse bootcamp foi ensinado a criar uma conta no Azure, otimizar o seu trabalho 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Microsoft Azure](https://azure.microsoft.com/pt-br/)
+- [Github Actions](https://github.com/features/actions)
 
 
 # ⛏ Ferramentas
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
 # 🏁 Módulos e certificados
@@ -70,7 +73,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desenvolvimento de software com Azure Static Web Apps e GitHub Actions](/certificados/1FE73F27.pdf)
 
 <h4 align="center" >
-  [Certificado de Conclusão](/certificados/2E9D45E2.pdf)
+[Certificado de Conclusão](/certificados/2E9D45E2.pdf)
 </h4><h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
 </h4>
